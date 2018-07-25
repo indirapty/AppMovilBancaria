@@ -27,9 +27,9 @@ Clonar repositori0 https://github.com/indirapty/AppMovilBancaria.git
 `$ npm install --save @ionic-native/google-maps`
 
 Una vez instalado puede proceder asegurarse que esté el dispositivo conectado a la PC
-Puede compilarlo de manera manual utilizando estos comandos 
-`$ ionic cordova platform add ios`
-`$ ionic cordova build ios`
+Puede compilarlo de manera manual utilizando estos comandos para dispositivo iOS: 
+* `$ ionic cordova platform add ios`
+*  `$ ionic cordova build ios`
 
 # Compilar en Xcode para dispositivos iOS
 * Ir a la carpeta AppMovilBancaria\platforms\ios y abrir el proyecto de tipo .xcodeproj
