@@ -23,13 +23,13 @@ Para que funcione correctamente:
 Clonar repositori0 https://github.com/indirapty/AppMovilBancaria.git
 
 # Instalar Google Maps Plugin e insertar API Keys:
-$ ionic cordova plugin add cordova-plugin-googlemaps --variable API_KEY_FOR_ANDROID="GOOGLE_MAPS_KEY_HERE" --variable API_KEY_FOR_IOS="GOOGLE_MAPS_KEY_HERE"
-$ npm install --save @ionic-native/google-maps
+`$ ionic cordova plugin add cordova-plugin-googlemaps --variable API_KEY_FOR_ANDROID="GOOGLE_MAPS_KEY_HERE" --variable API_KEY_FOR_IOS="GOOGLE_MAPS_KEY_HERE"`
+`$ npm install --save @ionic-native/google-maps`
 
 Una vez instalado puede proceder asegurarse que esté el dispositivo conectado a la PC
 Puede compilarlo de manera manual utilizando estos comandos 
-$ ionic cordova platform add ios
-$ ionic cordova build ios
+`$ ionic cordova platform add ios`
+`$ ionic cordova build ios`
 
 # Compilar en Xcode para dispositivos iOS
 * Ir a la carpeta AppMovilBancaria\platforms\ios y abrir el proyecto de tipo .xcodeproj
