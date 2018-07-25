@@ -1,7 +1,7 @@
 # AppMovilBancaria
 Consulta de las ubicaciones de agencias, sucursales, ATMs o puntos de pago del banco Con la finalidad de conocer donde están ubicados utilizando las funcionalidades de geolocalización y GPS del móvil.
 
-# Proyectio que muestra la implementación de Google Maps nativo en Ionic 3.9.2
+# Proyecto que muestra la implementación de Google Maps nativo en Ionic 3.9.2
 * App con template de 3 tabs Ionic
 * Google Map Nativo
 
