@@ -1,3 +1,11 @@
-page-home {
-
+.login-container {
+    display: -webkit-flex;
+    -webkit-flex-direction: column;
+    height: 100%;
+    background: -webkit-gradient(linear, left top, left bottom, from(#00428C), to(#73B5FF)) no-repeat;
+    background: -webkit-linear-gradient(top, #00428C, rgb(77, 131, 192)) no-repeat;
+}
+.ion-label-login {
+        color: white !important;
+        text-align: center;
 }
